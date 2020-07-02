@@ -3,6 +3,4 @@ curl -s https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/confi
   ./msfinstall
 
 
-service postgresql start
 
-msfconsole
